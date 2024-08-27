@@ -53,5 +53,3 @@
 ### Passo 10: Acompanhe o PR
 # Acompanhe as respostas do autor do PR e revise novamente se necessário.
 
-
-
